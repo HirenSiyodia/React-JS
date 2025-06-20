@@ -32,7 +32,7 @@
 
 // export default App;
 
-// Usinf props We are calling images and title as well
+// Using props We are calling images and title as well
 import Card from "./components/Card";
 
 const App = () => {
@@ -43,3 +43,4 @@ const App = () => {
         </>
     );
 }
+export default App;
